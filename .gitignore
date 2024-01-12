@@ -1,0 +1,8 @@
+/frontend/node_modules
+/hardhat-contract/artifacts
+/hardhat-contract/cache
+/frontend/.next
+/frontend/.vscode
+/hardhat-contract/.env
+/hardhat-contract/node_modules
+/hardhat-contract/deployments
